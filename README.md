@@ -5,7 +5,7 @@
 ## 使用例
 こんなことができます▼
 
-リンク準備中
+https://x.com/modurili/status/2049437669634285678?s=20
 
 ## 導入方法
 ### [最新バージョンをダウンロード](https://github.com/modurili/NineSlice/releases/latest)
